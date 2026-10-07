@@ -1,0 +1,9 @@
+[project]
+name = "starter-kit"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "cryptography>=50.0.2",
+    "requests>=2.34.2",
+    "snowflake-connector-python>=4.8.0",
+]
