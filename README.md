@@ -335,6 +335,6 @@ Dans [`docs/captures/`](docs/captures/) : les trois exécutions réussies, le gr
 
 ## Auteurs
 
-- Prénom Nom — [@MWKKA](https://github.com/MWKKA)
+- Alexandre Fantin — [@MWKKA](https://github.com/MWKKA)
 
 Projet réalisé dans le cadre de la formation Data Engineer (Simplon).
